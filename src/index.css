@@ -1,0 +1,13 @@
+* {
+    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    background: rgb(229, 229, 229);
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("./fonts/Inter-Regular.otf");
+}
